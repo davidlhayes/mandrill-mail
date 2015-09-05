@@ -1,0 +1,2 @@
+# mandrill-mail
+Auto-responder
